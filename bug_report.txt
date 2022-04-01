@@ -1,5 +1,5 @@
 	Identifier:1,
-  Summary:Site layout on the first page is not recommended with layout placement,
+  	Summary:Site layout on the first page is not recommended with layout placement,
 	Descriprion:Actual result and Expected result,
 	Actual result:The layout of the site on the first page does not match the layout of the application. More than 5 pixel spacing,
 	Expected result:The layout of the site on the first page matches the layout when overlaying. Run up to 5 pixels.,
