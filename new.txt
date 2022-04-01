@@ -1,0 +1,4 @@
+name: Inna Gennadyevna Boikova,
+age:28,
+pets: 1 dog Bright,
+Salary: 400$
