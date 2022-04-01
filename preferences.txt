@@ -1,0 +1,5 @@
+   favorite film: The Silence of the Lambs,
+   favorite series: Supernatural,
+   favorite food: BBQ,
+   favorite season: summer,
+   country: Switzerland
